@@ -84,7 +84,7 @@ Note the difference between a variable and a string.  I can have a variable `new
 
 Variables should generally have dimensions associated as well.  Comments (`#`) are key for this.
     
-    g = 9.8  # m/s**2
+    g = 9.8  # m/s**2 
 
 ### **Exercise 1**
 
